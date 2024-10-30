@@ -1,2 +1,2 @@
 # hi! 👋
-im michal and i created Meredith Bot, a Discord bot for Taylor Swift servers!
+im michal and i created FearlessFetcher, a Discord bot for Taylor Swift servers!
