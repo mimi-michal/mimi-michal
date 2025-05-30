@@ -1,2 +1,2 @@
 # hi! 👋
-im michal and i created FearlessFetcher, a Discord bot for Taylor Swift servers!
+im michal and i created Taylor, a Discord bot for Taylor Swift servers!
